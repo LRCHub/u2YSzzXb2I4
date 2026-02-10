@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GATE",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-02-10T08:19:54.862454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Open the Gate",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/01_Open_the_Gate_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Traitors Gate",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/02_Traitors_Gate_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hurry B4 The Gate Close",
+      "artist": "Chief Keef",
+      "has_synced": false,
+      "path": "select/03_Hurry_B4_The_Gate_Close_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bethlehem's Gate",
+      "artist": "Deacon Blue",
+      "has_synced": true,
+      "path": "select/04_Bethlehem's_Gate_Deacon_Blue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gate and Garden - 2016 Remaster",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/05_Gate_and_Garden_-_2016_Remaster_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Terra-Gate",
+      "artist": "Public Image Ltd.",
+      "has_synced": false,
+      "path": "select/06_Terra-Gate_Public_Image_Ltd..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Time Is Love - Techno Gate Mix",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/07_What_Time_Is_Love_-_Techno_Gate_Mix_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hell's Gate",
+      "artist": "CocoRosie",
+      "has_synced": false,
+      "path": "select/08_Hell's_Gate_CocoRosie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Gate",
+      "artist": "Björk feat. Arca",
+      "has_synced": true,
+      "path": "select/09_The_Gate_Björk_feat._Arca.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Gate",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/10_The_Gate_Björk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Golden Gate",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/11_Golden_Gate_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Open Up the Gate",
+      "artist": "The Congos",
+      "has_synced": false,
+      "path": "select/12_Open_Up_the_Gate_The_Congos.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Irish Keep Gate-Crashing",
+      "artist": "The Thrills",
+      "has_synced": true,
+      "path": "select/13_The_Irish_Keep_Gate-Crashing_The_Thrills.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Gate",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/14_The_Gate_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brown Baby - Live At The Village Gate",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/15_Brown_Baby_-_Live_At_The_Village_Gate_Nina_Simone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GATE",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_GATE_cinema_staff.txt"
+    }
+  ]
+}
